@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on too many things. But. Durung Covid19, and until early 2023, I was mostly doing User Experience at RAKWireless. They made, I broke.
+- 🔭 I’m currently working on too many things. But. During Covid19, and until early 2023, I was mostly doing User Experience at RAKWireless. They made, I broke.
 - 🌱 I’m currently learning Burmese (the main language of Myanmar), LoRa, SAMD CPUs and more.
 - 👯 I’m looking to collaborate on anything LoRa. Especially if it involves RAK products or ESP32.
 - 💬 Ask me about human languages (of which I speak 7), LoRa, ESP32, or anything IoT related. I might not know the answer, but I'll help look for it!
